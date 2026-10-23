@@ -102,3 +102,5 @@ Abre en el navegador: http://127.0.0.1:8000/
 GitHub: [@sharnellorozco7657-ai](https://github.com/sharnellorozco7657-ai)
 
 Proyecto en desarrollo.
+
+Versión de prueba
