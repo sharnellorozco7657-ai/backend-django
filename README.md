@@ -1,6 +1,6 @@
 # Backend Django
 
-Descripción breve del proyecto: qué hace y para quién es. *(Edita esta línea.)*
+API backend desarrollada con Django para gestionar los datos de mi aplicación.
 
 ## Tecnologías
 
